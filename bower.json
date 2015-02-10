@@ -1,0 +1,27 @@
+{
+  "name": "sample-app-polymer",
+  "version": "0.0.0",
+  "authors": [
+    "Queli Coto <quelicm@gmail.com>"
+  ],
+  "description": "Sample app for learn polymer elements",
+  "keywords": [
+    "Polymer",
+    "Sample",
+    "learn"
+  ],
+  "license": "MIT",
+  "homepage": "http://quelicoto.es",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-icons": "Polymer/core-icons#~0.5.4",
+    "core-elements": "Polymer/core-elements#~0.5.4",
+    "paper-elements": "Polymer/paper-elements#~0.5.4"
+  }
+}
